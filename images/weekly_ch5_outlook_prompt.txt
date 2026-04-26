@@ -1,0 +1,64 @@
+=== 五、下周展望与风险地图 ===
+Generated at: 2026-04-26 16:28:56
+============================================================
+
+专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。**提示词内容**：
+
+Create a professional financial infographic divided into two main sections: top 55% for weekly event calendar and bottom 45% for three-scenario analysis.
+
+**TOP SECTION - Weekly Events Calendar:**
+
+Title at top in bold Chinese: "下周关键事件与风险地图（4月27日-5月1日）"
+
+Horizontal timeline spanning left to right, showing five trading days:
+
+- **4月27日 周一**: Red border event card connected above timeline, Chinese label "美伊谈判（第二轮）" with oil barrel icon. Annotation: 若谈判失败油价测试$105-110
+
+- **4月28日 周二**: Orange border event card, Chinese label "Warsh确认听证会" with Federal Reserve building icon. Annotation: 若Warsh出任美联储主席美元强势
+
+- **4月29日 周三**: Orange border event card, Chinese label "ECB会议纪要" with European building icon. Annotation: 若暗示6月加息欧洲股市承压
+
+- **4月30日 周四**: Green border event card, Chinese label "中国4月PMI" with China flag icon. Annotation: 若PMI回升铜价获支撑
+
+- **5月1日 周五**: Orange border event card, Chinese label "美国4月非农就业" with jobs/employment icon. Annotation: 就业数据影响滞胀预期
+
+Visual timeline connecting all five dates with clear date markers in M月D日 format.
+
+**BOTTOM SECTION - Three Scenario Analysis:**
+
+Three vertical cards arranged side by side:
+
+**Left Card - Green tinted background**: 
+Header "🟢 乐观情景" with green accent
+Subheader "概率：20%"
+Three bullet points in Chinese:
+• 美伊意外达成协议
+• 油价回落至$85以下
+• 标普500反弹至7,200-7,250
+Footer: "霍尔木兹通行恢复"
+
+**Center Card - Blue tinted background**:
+Header "🎯 基准情景" with blue accent
+Subheader "概率：55%"
+Three bullet points in Chinese:
+• 油价$95-102高位震荡
+• 美元维持98-99强势
+• 纳指测试$24,500支撑
+Footer: "滞胀计价主导"
+
+**Right Card - Red tinted background**:
+Header "🔴 悲观情景" with red accent
+Subheader "概率：25%"
+Three bullet points in Chinese:
+• 冲突升级军事对抗
+• 油价测试$110-115
+• VIX飙升至30+黄金破$5,000
+Footer: "全面布雷风险"
+
+**STYLE REQUIREMENTS**:
+- Clean, professional financial data visualization style
+- Use red, orange, green border colors for event importance levels
+- Clear visual hierarchy between sections
+- Date labels in Chinese format
+- Professional chart aesthetics with subtle gradients
+- Dark or light professional background
