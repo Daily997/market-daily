@@ -1,53 +1,42 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-04-27 09:11:57
+Generated at: 2026-04-28 08:56:10
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。Create an infographic with a professional financial risk management dashboard layout in dark blue, navy, and gold color scheme, split into two distinct sections with a subtle horizontal dividing line.
+专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。Design a professional financial infographic dashboard with a clear two-zone layout, separated by a subtle horizontal divider. The overall design should feel like a premium risk management terminal.
 
-**Top Section (55%) - Weekly Focus Calendar:**
+**TOP ZONE (55% height) — Event Calendar:**
 
-Header title in large bold Chinese text: '未来一周关注焦点与短期投资主线 (4月27日-5月4日)'
+Header title in bold Chinese: "未来一周关注焦点与短期投资主线 (4月28日-5月5日)" with a calendar icon and a subtle gold accent underline.
 
-A horizontal timeline bar spanning the width, with 7 date markers from left to right: 4月28日, 4月29日, 4月30日, 5月1日, 5月2日, 5月3日, 5月4日 written in Chinese date format.
+Below the header, create a horizontal timeline spanning the entire width, positioned in the middle area. The timeline should have 7 date markers arranged left to right: "4月29日" "4月30日" "5月1日" "5月2日" "5月3日" "5月4日" "5月5日". Use a dark navy blue line with circular date nodes in steel gray. Add subtle grid lines extending upward from each date marker.
 
-Position event cards above and below the timeline connecting to their respective dates:
+Position 6 event cards connected to their corresponding dates with thin vertical connector lines:
 
-Card 1 (red border, most important): On 4月27日 positioned at the left edge, shows '伊朗外长访俄见普京' with a diplomacy icon, labeled '⭐⭐⭐' impact level.
+For April 29th: Place a red-bordered card containing "美国谘商会消费者信心指数" with a small bar chart icon and "🔴极高" importance badge. Include a brief annotation showing the previous reading of 49.8.
 
-Card 2 (orange border): On 4月28日, shows '日本央行利率决议' with a bank icon, labeled '⭐⭐⭐'.
+For April 30th: Create a prominent red-bordered card for "美联储利率决议 + 鲍威尔谢幕记者会" with a Federal Reserve eagle icon and "🔴极高" badge. Connect a second red card next to it showing "苹果、Meta、微软、谷歌财报密集发布" with a tech company building icon.
 
-Card 3 (yellow border, general): On 4月29日, shows '加拿大央行利率决议' with a bank icon, labeled '⭐⭐'.
+For May 1st: Position a red-bordered card for "欧洲央行利率决议" with an ECB tower icon, showing "花旗预测今夏或加息两次".
 
-Card 4 (red border, most important): On 4月30日 spanning slightly larger, shows '美联储利率决议鲍威尔最后会议' with a Fed icon, labeled '⭐⭐⭐⭐' in bold.
+For May 2nd: Add an orange-bordered card for "加拿大央行利率决议" with a maple leaf icon and "🔴高" badge, noting "加元升至七周高点".
 
-Card 5 (red border, most important): On 5月1日, shows '欧洲央行利率决议' with an ECB icon, labeled '⭐⭐⭐⭐'.
+For May 3rd-5th: Add subtle placeholder markers indicating "周末休市" with minimal decoration.
 
-Card 6 (orange border): On 5月1日, shows '英国央行利率决议' with a bank icon, labeled '⭐⭐⭐'.
+Include a legend box in the top-left corner explaining the color coding: red border for highest impact, orange for high impact.
 
-Card 7 (red border, most important): On 5月1日, shows 'Meta财报' with a tech earnings icon, labeled '⭐⭐⭐⭐'.
+**BOTTOM ZONE (45% height) — Investment Themes:**
 
-Card 8 (red border, most important): On 5月2日, shows '苹果微软亚马逊财报' with three tech company icons, labeled '⭐⭐⭐⭐'.
+Small section header: "⚡ 短期投资主线" in bold with a lightning bolt icon.
 
-**Bottom Section (45%) - Short-term Investment Themes:**
+Arrange 5 investment theme cards in a horizontal row, each containing:
+- Theme title in bold Chinese
+- Direction arrow (green up-arrow for bullish, red down-arrow for bearish, yellow horizontal arrow for neutral)
+- Status tag in a small badge: "维持" (green), "强化" (blue), "新增" (purple)
+- One-sentence core logic in smaller text
+- Subtle icon representing the asset class
 
-Subtitle in Chinese with lightning bolt: '⚡ 短期投资主线'
+Card 1: "原油多头延续" with green up-arrow, "维持" badge in green, showing "霍尔木兹通行量近零，封锁常态化已成结构" with an oil barrel icon. Connect this card to April 30th's Fed meeting card with a thin curved line (energy/inflation correlation).
 
-Five investment theme cards arranged horizontally below:
+Card 2: "黄金战术性回调后重新布局" with green up-arrow, "强化" badge in blue, showing "战术性入场区间$4,650-$4,680" with a gold coin icon. Connect to both the Fed meeting (policy uncertainty) and BOJ meeting with lines.
 
-Card 1: Green up arrow showing '看多' direction, label '维持' status tag, title '关税受益板块修复', brief text '悬顶之剑移除后的估值修复', connected to the timeline near Meta/tech earnings card with a thin line.
-
-Card 2: Green up arrow showing '看多' direction, label '强化' status tag in highlighted color, title '原油炼化超额收益', brief text '封锁常态化下炼油利润扩张', connected to the timeline near the Fed/ECB cards with a thin line.
-
-Card 3: Yellow horizontal arrow showing '观望' direction, label '维持' status tag, title '黄金横盘突破机会', brief text '等待央行超级周和地缘催化', connected to the timeline near the Fed/ECB cards with a thin line.
-
-Card 4: Yellow horizontal arrow showing '观望' direction, label '新增' status tag, title '科技股财报季AI叙事验证', brief text '七巨头变现预期已被大幅抬高', connected to the timeline near Meta/Apple/Microsoft/Amazon earnings with a thin line.
-
-Card 5: Red down arrow showing '看空' direction for JPY, label '新增' status tag, title '日元160干预红线', brief text 'USD/JPY逼近日本央行最后防线', connected to the timeline near BOJ rate decision with a thin line.
-
-**Bottom Right Corner:**
-
-A small circular risk gauge meter labeled '本周风险等级' with a needle pointer pointing to '中高' level zone, showing '中高' in yellow-orange color.
-
-**Visual Style:**
-
-Professional financial infographic aesthetic with glass-morphism card effects, clean sans-serif typography, subtle grid patterns in the background, and data visualization elements. The cards have soft white glow effects. Use white for primary text, gold for highlights, and maintain a cohesive dark theme throughout.
+Card 3: "科技财报阿尔法机会" with yellow horizontal arrow, "维持" badge, showing "聚焦硬件而非软件" with a microchip icon. Connect

@@ -1,54 +1,19 @@
 === 一、全局市场综述 ===
-Generated at: 2026-04-27 09:11:57
+Generated at: 2026-04-28 08:56:10
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。Create a professional financial dashboard image with the following specifications:
-
-**Layout Structure:**
-- Deep dark world map as background showing global market geography
-- Top header bar with bold Chinese title: "全球市场态势总览" in large white text
-- Bottom subtitle bar with Chinese text summarizing the day's core market theme: "VIX恐慌指数单日暴跌3.11%，科技股领涨，市场情绪快速从地缘焦虑切换至政策押注模式"
-- 9 data panels arranged in a 3 rows, 3 columns grid layout positioned above the map background
-- Bloomberg terminal dashboard aesthetic with clean, professional financial styling
-
-**World Map Coloring:**
-- ONLY color Israel in red and Iran in red. ALL other countries MUST remain dark gray
-- The red coloring indicates military conflict zones (Israel-Iran tensions over UAE iron dome deployment and Strait of Hormuz threats)
-- Map should have muted, dark appearance with only these conflict regions highlighted
-
-**Data Panels Grid (3 rows × 3 columns):**
-
-Row 1:
-- Panel [1,1] top-left: "上证指数" = "4,079.90" with "-0.33%▼" indicator → bright red text, normal font size, standard dark border
-- Panel [1,2] top-center: "沪深300" = "4,769.37" with "-0.35%▼" indicator → bright red text, normal font size, standard dark border
-- Panel [1,3] top-right: "恒生指数" = "25,978" with "+0.24%▲" indicator → bright green text, normal font size, standard dark border
-
-Row 2:
-- Panel [2,1] middle-left: "布伦特原油" = "101.49" with "-3.65%▼" indicator → bright red text, LARGE BOLD font, bright red border
-- Panel [2,2] middle-center: "VIX恐慌指数" = "18.71" with "-3.11%▼" indicator → bright red text, LARGE BOLD font, bright red border
-- Panel [2,3] middle-right: "比特币BTC" = "79,434" with "+2.35%▲" indicator → bright green text, LARGE BOLD font, bright green border
-
-Row 3:
-- Panel [3,1] bottom-left: "WTI原油" = "96.37" with "+2.09%▲" indicator → bright green text, LARGE BOLD font, bright green border
-- Panel [3,2] bottom-center: "纳斯达克" = "24,837" with "+1.63%▲" indicator → bright green text, normal font size, standard dark border
-- Panel [3,3] bottom-right: "标普500" = "7,165.08" with "+0.80%▲" indicator → bright green text, normal font size, standard dark border
-
-**Visual Style:**
-- Dark professional color scheme with high contrast data visualization
-- Panels should have clear separation with subtle borders
-- Green arrows indicate positive change, red arrows indicate negative change
-- High-impact market indicators (VIX, Brent, BTC, WTI) emphasized with larger
+专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。A Bloomberg terminal-style financial dashboard featuring a dark world map background as the base layer, with Iran and the Strait of Hormuz region highlighted in red and Europe highlighted in yellow to reflect geopolitical tensions and policy risks. ONLY color Iran in red and Europe in yellow. ALL other countries MUST remain dark gray. A prominent Chinese title "全球市场态势总览" at the top in large white text. A Chinese subtitle at the bottom capturing today's core market theme. Nine data panels arranged in a 3 rows, 3 columns grid layout floating above the map, each panel with a clean white background and subtle shadow. Row 1: Col1 shows 上证指数 at 4,086.34 with green upward arrow and +0.15% in bright green text with standard dark border; Col2 shows 沪深300 at 4,770.95 with green upward arrow and +0.02% in bright green text with standard dark border; Col3 shows 恒生指数 at 25,978 with green upward arrow and +0.24% in bright green text with standard dark border. Row 2: Col1 shows VIX恐慌指数 at 18.02 with red downward arrow and -3.69% in LARGE BOLD bright red text with bright red border; Col2 shows 布伦特原油 at 102.36 with red downward arrow and -2.82% in LARGE BOLD bright red text with bright red border; Col3 shows WTI原油 at 96.98 with green upward arrow and +2.73% in LARGE BOLD bright green text with bright green border. Row 3: Col1 shows 比特币BTC at 77,413 with red downward arrow and -1.58% in bright red text with standard dark border; Col2 shows 日经225 at 60,255 with green upward arrow and +0.90% in bright green text with standard dark border; Col3 shows 现货黄金 at 4,708.60 with red downward arrow and -0.29% in bright red text with standard dark border. Financial data visualization aesthetic, professional trading terminal style, high contrast text, clean typography, dark theme overall.
 
 HIGHEST PRIORITY EXACT DATA PANELS:
 Ignore any conflicting numeric mentions elsewhere in this prompt. Use only the following labels and values for all data panels, exactly as written:
 
 EXACTLY 9 data panels in a 3-row x 3-column grid. NO extra panels. NO duplicates.
-[Row1-Col1] "上证指数" = "4,079.90" (-0.33%▼) -> bright red normal size, standard dark border
-[Row1-Col2] "沪深300" = "4,769.37" (-0.35%▼) -> bright red normal size, standard dark border
+[Row1-Col1] "上证指数" = "4,086.34" (+0.15%▲) -> bright green normal size, standard dark border
+[Row1-Col2] "沪深300" = "4,770.95" (+0.02%▲) -> bright green normal size, standard dark border
 [Row1-Col3] "恒生指数" = "25,978" (+0.24%▲) -> bright green normal size, standard dark border
-[Row2-Col1] "布伦特原油" = "101.49" (-3.65%▼) -> bright red LARGE BOLD, bright red border
-[Row2-Col2] "VIX恐慌指数" = "18.71" (-3.11%▼) -> bright red LARGE BOLD, bright red border
-[Row2-Col3] "比特币BTC" = "79,434" (+2.35%▲) -> bright green LARGE BOLD, bright green border
-[Row3-Col1] "WTI原油" = "96.37" (+2.09%▲) -> bright green LARGE BOLD, bright green border
-[Row3-Col2] "纳斯达克" = "24,837" (+1.63%▲) -> bright green normal size, standard dark border
-[Row3-Col3] "标普500" = "7,165.08" (+0.80%▲) -> bright green normal size, standard dark border
+[Row2-Col1] "VIX恐慌指数" = "18.02" (-3.69%▼) -> bright red LARGE BOLD, bright red border
+[Row2-Col2] "布伦特原油" = "102.36" (-2.82%▼) -> bright red LARGE BOLD, bright red border
+[Row2-Col3] "WTI原油" = "96.98" (+2.73%▲) -> bright green LARGE BOLD, bright green border
+[Row3-Col1] "比特币BTC" = "77,413" (-1.58%▼) -> bright red normal size, standard dark border
+[Row3-Col2] "日经225" = "60,255" (+0.90%▲) -> bright green normal size, standard dark border
+[Row3-Col3] "现货黄金" = "4,708.60" (-0.29%▼) -> bright red normal size, standard dark border
