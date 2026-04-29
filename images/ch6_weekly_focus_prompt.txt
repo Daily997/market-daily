@@ -1,42 +1,5 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-04-28 08:56:10
+Generated at: 2026-04-29 08:59:44
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。Design a professional financial infographic dashboard with a clear two-zone layout, separated by a subtle horizontal divider. The overall design should feel like a premium risk management terminal.
-
-**TOP ZONE (55% height) — Event Calendar:**
-
-Header title in bold Chinese: "未来一周关注焦点与短期投资主线 (4月28日-5月5日)" with a calendar icon and a subtle gold accent underline.
-
-Below the header, create a horizontal timeline spanning the entire width, positioned in the middle area. The timeline should have 7 date markers arranged left to right: "4月29日" "4月30日" "5月1日" "5月2日" "5月3日" "5月4日" "5月5日". Use a dark navy blue line with circular date nodes in steel gray. Add subtle grid lines extending upward from each date marker.
-
-Position 6 event cards connected to their corresponding dates with thin vertical connector lines:
-
-For April 29th: Place a red-bordered card containing "美国谘商会消费者信心指数" with a small bar chart icon and "🔴极高" importance badge. Include a brief annotation showing the previous reading of 49.8.
-
-For April 30th: Create a prominent red-bordered card for "美联储利率决议 + 鲍威尔谢幕记者会" with a Federal Reserve eagle icon and "🔴极高" badge. Connect a second red card next to it showing "苹果、Meta、微软、谷歌财报密集发布" with a tech company building icon.
-
-For May 1st: Position a red-bordered card for "欧洲央行利率决议" with an ECB tower icon, showing "花旗预测今夏或加息两次".
-
-For May 2nd: Add an orange-bordered card for "加拿大央行利率决议" with a maple leaf icon and "🔴高" badge, noting "加元升至七周高点".
-
-For May 3rd-5th: Add subtle placeholder markers indicating "周末休市" with minimal decoration.
-
-Include a legend box in the top-left corner explaining the color coding: red border for highest impact, orange for high impact.
-
-**BOTTOM ZONE (45% height) — Investment Themes:**
-
-Small section header: "⚡ 短期投资主线" in bold with a lightning bolt icon.
-
-Arrange 5 investment theme cards in a horizontal row, each containing:
-- Theme title in bold Chinese
-- Direction arrow (green up-arrow for bullish, red down-arrow for bearish, yellow horizontal arrow for neutral)
-- Status tag in a small badge: "维持" (green), "强化" (blue), "新增" (purple)
-- One-sentence core logic in smaller text
-- Subtle icon representing the asset class
-
-Card 1: "原油多头延续" with green up-arrow, "维持" badge in green, showing "霍尔木兹通行量近零，封锁常态化已成结构" with an oil barrel icon. Connect this card to April 30th's Fed meeting card with a thin curved line (energy/inflation correlation).
-
-Card 2: "黄金战术性回调后重新布局" with green up-arrow, "强化" badge in blue, showing "战术性入场区间$4,650-$4,680" with a gold coin icon. Connect to both the Fed meeting (policy uncertainty) and BOJ meeting with lines.
-
-Card 3: "科技财报阿尔法机会" with yellow horizontal arrow, "维持" badge, showing "聚焦硬件而非软件" with a microchip icon. Connect
+专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。生成专业金融信息图：上下双区块结构，上部55%为未来一周事件日历（
