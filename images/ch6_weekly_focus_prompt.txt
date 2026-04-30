@@ -1,5 +1,17 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-04-29 08:59:44
+Generated at: 2026-04-30 08:54:38
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。生成专业金融信息图：上下双区块结构，上部55%为未来一周事件日历（
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional risk-management dashboard infographic with a light divider separating two stacked sections.
+
+**Upper section (55% of image height):**
+
+At the top, place the bold title "未来一周关注焦点与短期投资主线 (4月30日-5月7日)" centered in large font with a dark navy background strip.
+
+Below the title, create a clean horizontal timeline spanning the full width with 7 date markers from left to right in Simplified Chinese: "5月1日 | 5月2日 | 5月3日 | 5月4日 | 5月5日 | 5月6日 | 5月7日". Place small circular date nodes below each label. Draw a subtle horizontal line connecting all dates.
+
+Position 6 event cards connecting to their respective dates on the timeline with thin vertical connector lines:
+
+- At "5月1日": Place a tall card with a RED border (3px solid red) and a small calendar icon. Card contains: "📅 ECB利率决议" in bold, with subtext "德国4月通胀2.9%达两年高点，声明措辞料偏鹰派，欧元若走强将压制美元指数". This is the most important event.
+
+- At "5月2日": Place a tall card with a RED border (3px solid red) and a small bar chart icon. Card contains: "📊 美国4月非农就业数据" in bold, with subtext "

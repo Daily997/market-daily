@@ -1,39 +1,5 @@
 === 一、全局市场综述 ===
-Generated at: 2026-04-29 08:59:44
+Generated at: 2026-04-30 08:54:38
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。全球市场态势总览，Bloomberg终端风格仪表盘，深色专业金融背景，上半部分叠加一幅世界地图，波斯湾和霍尔木兹海峡区域清晰可见，只标注两个国家：Iran伊朗因军事封锁霍尔木兹海峡并收取通行费标记为red红色，United Arab Emirates阿联酋因历史性退出OPEC经济政策风险标记为yellow黄色，ALL other countries MUST remain dark gray暗灰色无标注。地图下方铺设3 rows, 3 columns grid数据面板网格，严格9个面板无重复。
-
-Row 1, Column 1面板：上证指数，数值4,078.64，涨跌-0.23%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-Row 1, Column 2面板：沪深300，数值4,758.21，涨跌-0.32%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-Row 1, Column 3面板：恒生指数，数值25,926，涨跌-0.20%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-Row 2, Column 1面板：布伦特原油，数值103.89，涨跌-4.01%向下红色箭头，bright red红色字体，LARGE BOLD大号加粗字号，bright red border粗红边框。
-
-Row 2, Column 2面板：WTI原油，数值99.29，涨跌+3.03%向上绿色箭头，bright green绿色字体，LARGE BOLD大号加粗字号，bright green border粗绿边框。
-
-Row 2, Column 3面板：日经225，数值60,537，涨跌+1.38%向上绿色箭头，bright green绿色字体，standard dark border深色细边框，普通字号。
-
-Row 3, Column 1面板：现货黄金，数值4,613.40，涨跌-1.33%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-Row 3, Column 2面板：比特币BTC，数值76,526，涨跌-1.09%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-Row 3, Column 3面板：VIX恐慌指数，数值17.83，涨跌-1.05%向下红色箭头，bright red红色字体，standard dark border深色细边框，普通字号。
-
-底部副标题中文一行：OPEC近60年首次现裂痕，霍尔木兹封锁常态化，油价飙升而黄金重挫，鲍威尔今夜迎告别演出。整体风格专业金融终端，数据清晰可读，冷色调主调，高对比度。
-
-HIGHEST PRIORITY EXACT DATA PANELS:
-Ignore any conflicting numeric mentions elsewhere in this prompt. Use only the following labels and values for all data panels, exactly as written:
-
-EXACTLY 9 data panels in a 3-row x 3-column grid. NO extra panels. NO duplicates.
-[Row1-Col1] "上证指数" = "4,078.64" (-0.23%▼) -> bright red normal size, standard dark border
-[Row1-Col2] "沪深300" = "4,758.21" (-0.32%▼) -> bright red normal size, standard dark border
-[Row1-Col3] "恒生指数" = "25,926" (-0.20%▼) -> bright red normal size, standard dark border
-[Row2-Col1] "布伦特原油" = "103.89" (-4.01%▼) -> bright red LARGE BOLD, bright red border
-[Row2-Col2] "WTI原油" = "99.29" (+3.03%▲) -> bright green LARGE BOLD, bright green border
-[Row2-Col3] "日经225" = "60,537" (+1.38%▲) -> bright green normal size, standard dark border
-[Row3-Col1] "现货黄金" = "4,613.40" (-1.33%▼) -> bright red normal size, standard dark border
-[Row3-Col2] "比特币BTC" = "76,526" (-1.09%▼) -> bright red normal size, standard dark border
-[Row3-Col3] "VIX恐慌指数" = "17.83" (-1.05%▼) -> bright red normal size, standard dark border
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a Bloomberg terminal dashboard-style infographic image. The image has a dark background with a subtle world map illustration in the lower half. Place a 3 rows, 3 columns grid of exactly 9 data panels in the upper portion above the map, with each panel clearly labeled. The panels are arranged as follows: Row 1, Column 1 shows Shanghai Composite Index at 4,107.51 with +0.72% change in bright green text with normal font size and standard dark border; Row 1, Column 2 shows CSI 300 Index at 4,810.35 with +1.15% change in bright green text with normal font size and standard dark border; Row 1, Column 3 shows Hang Seng Index at 25,680 with -0.95% change in bright red text with normal font size and standard dark border; Row 2, Column 1 shows WTI Crude Oil at 107.25 with +7.33% change in bright green text with extra large bold font and glowing bright green border to indicate extreme significance; Row 2, Column 2 shows VIX Fear Index at 18.81 with +5.50% change in bright green text with extra large bold font and glowing bright green border to indicate extreme significance; Row 2, Column 3 shows Nikkei 225 at 59,223 with -1.16% change in bright red text with normal font size and standard dark border; Row 3, Column 1 shows Dow Jones at 48,862 with -0.57% change in bright red text with normal font size and standard dark border; Row 3, Column 2 shows Spot Gold at 4,576.50 with -0.33% change in bright red text with normal font size and standard dark border; Row 3, Column 3 shows US Dollar Index DXY at 98.87 with +0.25% change in bright green text with normal font size and standard dark border. ONLY color Iran and surrounding Middle East/Gulf region in red to indicate military conflict and the United States in yellow to indicate monetary policy risk. ALL other countries on the map MUST remain dark gray. The top title text displayed inside the image reads "全球市场态势总览" in large white text. The bottom subtitle text inside the image reads "油价$110+是战场定价，美联储却在用加息威胁叫停这场定价——能源冲击与货币政策拐点共振" in small white text. Style is Bloomberg terminal dark theme with neon data colors on black background.
