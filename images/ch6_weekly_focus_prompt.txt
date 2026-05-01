@@ -1,17 +1,32 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-04-30 08:54:38
+Generated at: 2026-05-01 08:49:22
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional risk-management dashboard infographic with a light divider separating two stacked sections.
+Professional global news briefing infographic with a rich editorial design language. The background must be deep midnight navy; never use a white or light background. Accent colors: warm amber gold, electric cyan-green, soft coral red, slate blue, and pure white text. Create layered visual depth with a dense hexagonal grid or world-map silhouette as background texture; card areas should use translucent dark panels with subtle glowing borders. High resolution, magazine-grade quality, calm and clear, information-first. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Avoid trading-terminal aesthetics, candlestick charts, oversized up/down arrows, buy/sell cues, and aggressive sentiment dashboards. Critical requirement: every number and data value in the image must match the prompt exactly; do not invent or alter data. Critical requirement: each data panel may appear only once, with absolutely no duplicates.Create a professional financial information observation board infographic with the following specifications:
 
-**Upper section (55% of image height):**
+**Layout Structure:**
+- Top section (15%): Title area with text "未来一周关注焦点与节后观察点（5月1日-5月8日）" in simplified Chinese, bold, centered, clean dark background
+- Upper section (45%): Event calendar grid showing 5-6 importance cards arranged in timeline order from May 1 to May 8
+- Lower section (40%): "节后观察点" observation cards section with 5 variable cards showing cause-effect relationships
 
-At the top, place the bold title "未来一周关注焦点与短期投资主线 (4月30日-5月7日)" centered in large font with a dark navy background strip.
+**Event Calendar Cards (Upper Section):**
+Card 1 - May 1: "美股财报：Meta Platforms" with importance stars (⭐⭐⭐), description: "盘后已跌10%，市场如何消化'进一步裁员'暗示"
+Card 2 - May 1: "美国4月ISM制造业PMI" with importance stars (⭐⭐⭐), description: "经济学家预测大幅萎缩，若ISM走弱将强化'滞胀'叙事"
+Card 3 - Week of May 5: "微软、亚马逊财报发布" with importance stars (⭐⭐⭐), description: "科技七巨头的剩余答卷将决定美股能否守住当前涨幅"
+Card 4 - Week of May 5: "美伊外交进展" with importance stars (⭐⭐⭐), description: "特朗普提出霍尔木兹重开计划，任何突破将直接影响油价"
+Card 5 - May 15: "Kevin Warsh接任美联储主席" with importance stars (⭐⭐⭐), description: "市场正在定价其鹰派立场，第一次FOMC将是关键观察点"
 
-Below the title, create a clean horizontal timeline spanning the full width with 7 date markers from left to right in Simplified Chinese: "5月1日 | 5月2日 | 5月3日 | 5月4日 | 5月5日 | 5月6日 | 5月7日". Place small circular date nodes below each label. Draw a subtle horizontal line connecting all dates.
+**Observation Cards (Lower Section):**
+Card 1: "化工板块传导效应" - Variable: "霍尔木兹封锁→硫酸供应受阻" - Validation: "万华化学、华鲁恒升季报" - Impact: "精炼铜原料成本压力上升"
+Card 2: "黄金板块共振" - Variable: "中国央行连续17个月增持黄金" - Validation: "山东黄金、中金黄金走势" - Impact: "国际金价反弹能否传导至A股"
+Card 3: "AI叙事映射" - Variable: "Alphabet单日+10%、苹果超预期" - Validation: "寒武纪、海光信息等AI算力板块" - Impact: "美股科技情绪修复能否传递"
+Card 4: "H股补跌修复" - Variable: "恒生指数本期-1.28%至25,776" - Validation: "南下资金流向" - Impact: "A股休市期间美股走强的错位修复"
+Card 5: "人民币汇率传导" - Variable: "美国3月PCE至3.5%，美元指数98.17" - Validation: "人民币汇率中间价设定" - Impact: "通胀压力对汇率的影响"
 
-Position 6 event cards connecting to their respective dates on the timeline with thin vertical connector lines:
-
-- At "5月1日": Place a tall card with a RED border (3px solid red) and a small calendar icon. Card contains: "📅 ECB利率决议" in bold, with subtext "德国4月通胀2.9%达两年高点，声明措辞料偏鹰派，欧元若走强将压制美元指数". This is the most important event.
-
-- At "5月2日": Place a tall card with a RED border (3px solid red) and a small bar chart icon. Card contains: "📊 美国4月非农就业数据" in bold, with subtext "
+**Visual Style:**
+- Color palette: Deep navy blue () background, white and light gray text, amber () accent for highlights, teal () for observation cards, soft gold () for important markers
+- Use thin connector lines (not arrows) between events and observation points to show logical relationships
+- Clean sans-serif fonts for readability
+- Subtle grid layout with consistent card sizing
+- No trading indicators, no candlestick charts, no directional arrows
+- Professional information board aesthetic with rational, observational tone
