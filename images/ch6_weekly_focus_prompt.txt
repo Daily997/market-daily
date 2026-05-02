@@ -1,32 +1,5 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-01 08:49:22
+Generated at: 2026-05-02 08:50:50
 ============================================================
 
-Professional global news briefing infographic with a rich editorial design language. The background must be deep midnight navy; never use a white or light background. Accent colors: warm amber gold, electric cyan-green, soft coral red, slate blue, and pure white text. Create layered visual depth with a dense hexagonal grid or world-map silhouette as background texture; card areas should use translucent dark panels with subtle glowing borders. High resolution, magazine-grade quality, calm and clear, information-first. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Avoid trading-terminal aesthetics, candlestick charts, oversized up/down arrows, buy/sell cues, and aggressive sentiment dashboards. Critical requirement: every number and data value in the image must match the prompt exactly; do not invent or alter data. Critical requirement: each data panel may appear only once, with absolutely no duplicates.Create a professional financial information observation board infographic with the following specifications:
-
-**Layout Structure:**
-- Top section (15%): Title area with text "未来一周关注焦点与节后观察点（5月1日-5月8日）" in simplified Chinese, bold, centered, clean dark background
-- Upper section (45%): Event calendar grid showing 5-6 importance cards arranged in timeline order from May 1 to May 8
-- Lower section (40%): "节后观察点" observation cards section with 5 variable cards showing cause-effect relationships
-
-**Event Calendar Cards (Upper Section):**
-Card 1 - May 1: "美股财报：Meta Platforms" with importance stars (⭐⭐⭐), description: "盘后已跌10%，市场如何消化'进一步裁员'暗示"
-Card 2 - May 1: "美国4月ISM制造业PMI" with importance stars (⭐⭐⭐), description: "经济学家预测大幅萎缩，若ISM走弱将强化'滞胀'叙事"
-Card 3 - Week of May 5: "微软、亚马逊财报发布" with importance stars (⭐⭐⭐), description: "科技七巨头的剩余答卷将决定美股能否守住当前涨幅"
-Card 4 - Week of May 5: "美伊外交进展" with importance stars (⭐⭐⭐), description: "特朗普提出霍尔木兹重开计划，任何突破将直接影响油价"
-Card 5 - May 15: "Kevin Warsh接任美联储主席" with importance stars (⭐⭐⭐), description: "市场正在定价其鹰派立场，第一次FOMC将是关键观察点"
-
-**Observation Cards (Lower Section):**
-Card 1: "化工板块传导效应" - Variable: "霍尔木兹封锁→硫酸供应受阻" - Validation: "万华化学、华鲁恒升季报" - Impact: "精炼铜原料成本压力上升"
-Card 2: "黄金板块共振" - Variable: "中国央行连续17个月增持黄金" - Validation: "山东黄金、中金黄金走势" - Impact: "国际金价反弹能否传导至A股"
-Card 3: "AI叙事映射" - Variable: "Alphabet单日+10%、苹果超预期" - Validation: "寒武纪、海光信息等AI算力板块" - Impact: "美股科技情绪修复能否传递"
-Card 4: "H股补跌修复" - Variable: "恒生指数本期-1.28%至25,776" - Validation: "南下资金流向" - Impact: "A股休市期间美股走强的错位修复"
-Card 5: "人民币汇率传导" - Variable: "美国3月PCE至3.5%，美元指数98.17" - Validation: "人民币汇率中间价设定" - Impact: "通胀压力对汇率的影响"
-
-**Visual Style:**
-- Color palette: Deep navy blue () background, white and light gray text, amber () accent for highlights, teal () for observation cards, soft gold () for important markers
-- Use thin connector lines (not arrows) between events and observation points to show logical relationships
-- Clean sans-serif fonts for readability
-- Subtle grid layout with consistent card sizing
-- No trading indicators, no candlestick charts, no directional arrows
-- Professional information board aesthetic with rational, observational tone
+Professional global news briefing infographic with a rich editorial design language. The background must be deep midnight navy; never use a white or light background. Accent colors: warm amber gold, electric cyan-green, soft coral red, slate blue, and pure white text. Create layered visual depth with a dense hexagonal grid or world-map silhouette as background texture; card areas should use translucent dark panels with subtle glowing borders. High resolution, magazine-grade quality, calm and clear, information-first. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Avoid trading-terminal aesthetics, candlestick charts, oversized up/down arrows, buy/sell cues, and aggressive sentiment dashboards. Critical requirement: every number and data value in the image must match the prompt exactly; do not invent or alter data. Critical requirement: each data panel may appear only once, with absolutely no duplicates.A clean, professional information dashboard displaying '未来一周关注焦点与观察清单（5月2日-5月9日）' in Simplified Chinese at the top, with a light neutral background. The upper section occupies about 60% of the canvas showing an event calendar grid for the coming week, featuring 5-6 event cards arranged chronologically from left to right across a horizontal timeline spanning 5月2日 to 5月9日. Each card has a date label, event name in Simplified Chinese, importance stars, and a brief explanation. Cards include: May 2nd card for 卡塔尔恢复霍尔木兹海峡航运 with three stars, May 4th card for 美国对伊战争授权期限 with three stars, May 5th card for 美伊谈判下一轮 with four stars, May 6th card for 中国4月贸易数据 with three stars, May 7th card for 美国4月CPI数据 with four stars. Thin connector lines run between event cards and corresponding observation points below. The lower section occupies about 40% showing 4 observation checklist cards arranged in a 2x2 grid, each card containing an observation variable name, validation condition, and potential impact description in Simplified Chinese, with subtle icon indicators for different categories. No trading arrows, no candlestick charts, no percentage returns or leaderboards. Style: global information observation board aesthetic with muted professional color palette, clean typography, rational layout design reminiscent of financial research terminals but without terminal coloring. Flat design with subtle shadows, minimal visual noise.
