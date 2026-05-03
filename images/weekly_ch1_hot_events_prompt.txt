@@ -1,25 +1,5 @@
 === 一、本周市场全景 ===
-Generated at: 2026-04-26 16:28:56
+Generated at: 2026-05-03 08:54:31
 ============================================================
 
-卡通漫画插画风格，色彩鲜艳，线条粗犷，人物表情夸张，构图动感，新闻讽刺漫画风格，活力十足。所有文字标签必须使用简体中文，图中不得出现任何英文。严格要求：只描绘提示词中明确提到的事件和人物，不得自行发明。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码、占位符或随机字母组合。如无法清晰渲染中文标签，请用象形图标代替。文字标签保持简短（最多4个汉字）。本周全球热点一览
-
-画面中央：波斯湾地图造型框架，巨大油井火焰冲天，两艘美国宙斯盾战舰对峙伊朗快艇，水雷密布霍尔木兹海峡，爆炸云与闪电交织
-
-左侧区域：美国元素——华尔街铜牛配自由女神像剪影，美军宙斯盾舰发射舰炮击中货船，Q版卡通形象美国大兵手持盾牌
-
-右侧区域：中东地标——清真寺穹顶与新月，油井熊熊燃烧，伊朗快艇蜂群包围货船，水雷呈链条状封锁海峡，对话气泡标注"封锁"二字
-
-右上角：欧洲区域——埃菲尔铁塔旁欧元符号，Q版卡通形象欧央行行长手举加息信号牌
-
-下方：中国区域——东方明珠塔剪影，对话气泡标注"制裁"
-
-画面底部三组对照：左侧油价暴涨用火焰与粗箭头向上表示，中间美股创新高用铜牛与纳斯达克曲线表示，右侧白银闪崩用冰块碎裂表示
-
-四周分布关键事件卡片：
-左上角对话气泡标注"停火"
-右上角标注"加息"
-左下角标注"布雷"
-右下角标注"制裁"
-
-全画面风格：卡通漫画社论插画，色彩鲜明动感，漫画式对话气泡与象形图标，线条粗犷有力，布局紧凑叙事感强
+Editorial cartoon illustration style with vivid colors, bold lines, exaggerated expressions, dynamic composition, and energetic news-satire visual language. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Strict requirement: depict only the events and figures explicitly mentioned in the prompt; do not invent anything. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text, placeholders, or random letter combinations. If clear Chinese labels cannot be rendered, replace them with pictographic icons. Keep text labels short, at no more than 4 Chinese characters whenever possible.A vibrant editorial cartoon panoramic illustration depicting this week's global market hotspots. In the center, a dramatic scene at the Hormuz Strait features an Iranian mosque dome alongside an oil platform with flames erupting, a large toll booth blocking oil tankers. Surrounding this central crisis, multiple scenes radiate outward: the US Supreme Court building with gavel and "关税退还" speech bubble, Statue of Liberty with stock chart surging upward; the UAE's departure from OPEC symbolized by a cracking oil barrel with the Eiffel Tower visible nearby; a chibi-style Kevin Warsh figure with oversized head labeled '美联储主席' standing beside a Federal Reserve building with hawk symbol; Alphabet letters floating with golden coins and "AI" symbols, stock chart hitting new heights; Japan scene with Mount Fuji and yen symbol crashing upward with "外汇干预" label; Kremlin towers in Russia with nuclear symbols; a chibi Jerome Powell figure labeled '美联储主席' with split voting numbers showing 8-4. Big Oil CEOs depicted as chibi characters near oil derricks with "悬崖边缘" warning. Explosion clouds, lightning bolts, and red arrows pointing up surround oil barrel prices showing $120. Thick connection lines link all scenes. Flames represent inflation, ice patches represent recession. Speech bubbles contain short Chinese labels: 油价暴涨, 央行鹰派, AI爆发, 霍尔木兹封锁. The entire scene has vivid colors, dynamic motion lines, comic-book style energy. Title at top in large stylized Chinese characters: 本周全球热点一览. Editorial cartoon style, not dashboard or chart.

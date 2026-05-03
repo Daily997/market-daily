@@ -1,15 +1,25 @@
 === 六、投资主线周度更新 ===
-Generated at: 2026-04-26 16:28:56
+Generated at: 2026-05-03 08:54:31
 ============================================================
 
-专业金融报告信息图，简洁现代设计，深海军蓝背景，强调色：暖金色、亮青色、白色。高分辨率，编辑级品质。所有文字标签必须使用简体中文，图中不得出现任何英文。绝对不允许出现水印、Logo、网站域名或署名。绝对不允许出现乱码或随机字母。关键要求：图中显示的每个数字和数据值必须与提示词中指定的完全一致，不得自行发明、四舍五入或修改任何数字。关键要求：每个数据面板只能出现一次，绝对禁止重复。如有空白区域，保持空白或用装饰性元素（网格线、纹理）填充，严禁重复面板。三栏卡片式信息图布局，顶部深色横栏显示中文标题“投资主线三维透视”，下方三个等宽竖栏并列。
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a three-column card-style infographic titled "投资主线三维透视" in Chinese with a dark professional financial dashboard aesthetic. Each column has an equal width of approximately 33% of the image width.
 
-**左栏（红橙渐变背景）**：栏顶标签圆形徽章显示“⚡ 短期交易窗口”，内部垂直排列4张主题卡片。卡片1：左侧油桶图标，中间“铜↑”和“地缘供给冲击”文字，右侧绿色圆形徽章“✅强化”；卡片2：左侧闪电或油桶图标，中间“WTI原油↑”和“能源封锁”，右侧绿色徽章“✅强化”；卡片3：左侧比特币符号图标，中间“BTC↑”和“数字黄金”，右侧绿色徽章“✅强化”；卡片4：左侧芯片图标，中间“纳指100”下降箭头和“AI科技”，右侧黄色徽章“⚠️裂痕”。每张卡片用细线分隔，带有微弱阴影。
+**Top section**: A horizontal dark gradient title bar spanning the full width with text "投资主线三维透视" in large bold white Simplified Chinese characters, centered. No dates or numbers.
 
-**中栏（蓝青渐变背景）**：栏顶标签圆形徽章显示“📐 中期配置方向”，内部垂直排列5张主题卡片。卡片1：金条图标，中间“黄金”横线和“滞胀对冲”，底部信心指示器“→持平”；卡片2：铜块图标，中间“铜↑”和“地缘供给”，底部“↑强化”；卡片3：银条图标，中间“白银↓”和“补涨受阻”，底部“↓弱化”；卡片4：盾牌图标，中间“高股息”横线和“防御配置”，底部“→持平”；卡片5：房子图标，中间“A股”横线和“外部对冲”，底部“→持平”。
+**Left column (⚡ 短期交易窗口)**: Red-orange gradient background ( to ). Header badge with "⚡ 短期交易窗口" in bold white text. Below, five compact horizontal cards arranged vertically with rounded corners and subtle shadows. Each card follows this structure: left side has a figurative cartoon-style icon (oil barrel for oil, lightning bolt for energy, microchip for AI, gold bar for gold, factory building for manufacturing), center shows 2-4 Chinese characters theme name with a directional arrow (↑ for bullish, ↓ for bearish, → for neutral), right side has a circular status badge (green badge with white checkmark ✅ for confirmed, yellow badge with warning ⚠️ for cracks, blue badge with "NEW" text 🆕 for new). Card border colors: green () for bullish themes, red () for bearish themes, gray () for neutral/watch themes.
 
-**右栏（深蓝紫渐变背景）**：栏顶标签圆形徽章显示“🔭 长期战略主题”，内部垂直排列4张主题卡片。卡片1：美元符号破碎图标，中间“黄金”横线和“去美元化”，底部“↑强化”；卡片2：比特币符号图标，中间“BTC”横线和“机构化”，底部“↑强化”；卡片3：油井图标，中间“原油”横线和“能源结构重塑”，底部“↑强化”；卡片4：太阳能板图标，中间“铜”横线和“能源转型”，底部“↑强化”。
+Card 1: Oil barrel icon | "霍尔木兹封锁 ↑" | green badge "✅确认" - border green
+Card 2: Lightning bolt icon | "能源断供 ↑" | green badge "✅确认" - border green
+Card 3: Microchip icon | "AI盈利验证 ↑" | green badge "✅确认" - border green
+Card 4: Gold bar icon | "黄金整固 ↓" | yellow badge "⚠️裂痕" - border gray
+Card 5: Factory icon | "A股防御 ↑" | blue badge "🆕新增" - border green
 
-**底部总结栏**：深色横条背景，居中显示中文核心判断：“地缘风险精细化定价，铜与BTC逻辑最清晰，减少模糊地缘主题配置”。
+Each card displays key data: "+9.84% $108", "+10.65% $102", "+2.91%", "-1.51% $4,550-$4,700", "+1.66%" in small readable text below the theme name. Confidence level shown as "高/中/低" in small colored text.
 
-所有文字使用简体中文，数字清晰可读，图标为具象卡通风格，徽章使用彩色圆形，布局紧凑但留有适当呼吸空间。
+**Middle column (📐 中期配置方向)**: Blue-cyan gradient background ( to ). Header badge with "📐 中期配置方向" in bold white text. Below, five compact horizontal cards with same structure. Icons: shield for defense/digital, rocket for growth, gear for industrials, flask for chemicals, wheat/grain for commodities. Confidence change indicators: green upward arrow ↑ for strengthening, yellow horizontal arrow → for holding, red downward arrow ↓ for weakening.
+
+Card 1: Shield icon | "数字黄金 ↑" | green badge "↑强化" - border green
+Card 2: Rocket icon | "工业需求 →" | yellow badge "→维持" - border gray
+Card 3: Gear icon | "滞胀定价 ↑" | green badge "↑强化" - border green
+Card 4: Flask icon | "化工传导 ↑" | green badge "↑强化" - border green
+Card 5: Wheat icon | "避险利差
