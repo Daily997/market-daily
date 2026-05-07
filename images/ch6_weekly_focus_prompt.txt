@@ -1,11 +1,23 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-06 08:53:53
+Generated at: 2026-05-07 08:54:59
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.A professional financial risk-management dashboard infographic in landscape 16:9 format showing "未来一周关注焦点与短期投资主线 (5月6日-5月13日)" as the main title. The layout is divided into two stacked sections separated by a thin light gray horizontal divider line.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional financial risk-management dashboard infographic with two stacked sections separated by a thin light divider. The entire image should have a clean white background with subtle gradient accents in navy blue and gold tones, suitable for financial reporting.
 
-Upper section (55% height) titled "📅 未来一周重要事件与数据" displays a horizontal timeline spanning from 5月7日 to 5月13日 marked at the bottom of this section. Five event cards are positioned above the timeline, connected by thin vertical lines. Red bordered card on May 7 shows "美联储主席交接（Kevin Warsh接任）" with a chair icon, indicating highest impact. Orange bordered card on May 7 shows "美国初请失业金人数 + 季度生产率" with a chart icon. Orange bordered card on May 8 shows "中国4月进出口数据" with a trade icon. Two red bordered cards spanning May 7 and May 9 labeled "UN安理会伊朗制裁决议（持续）" with a globe icon and "伊朗波斯湾海峡管理局运行情况（持续）" with a map icon respectively. Each card has rounded corners with colored borders and white inner background.
+**Upper section (55% of image height):**
+- Title text at the top: "未来一周关注焦点与短期投资主线 (5月7日-5月14日)" in large bold Simplified Chinese font, colored in dark navy blue
+- Below the title, a horizontal timeline spanning the full width, labeled with dates from left to right: "5月7日", "5月8日", "5月9日", "5月10日", "5月11日", "5月12日", "5月13日", "5月14日" in Simplified Chinese, positioned along the bottom of the timeline
+- Place exactly 5 event cards connected to their corresponding dates on the timeline:
+  1. On 5月7日: A red-bordered card with an oil barrel icon labeled "美伊谈判关键节点" (most important, highest impact)
+  2. On 5月7日: An orange-bordered card with a bank icon labeled "日本央行会议纪要" (medium importance)
+  3. On 5月8日: A yellow-bordered card with a chart icon labeled "中国4月贸易数据" (general watch)
+  4. On 5月8-9日: An orange-bordered card with a peace symbol icon labeled "俄乌停火窗口期" (medium importance)
+  5. On 5月9日: An orange-bordered card with a percentage icon labeled "中国4月CPI/PPI" (medium importance, high impact for sectors)
+  6. On continuing basis: A red-bordered card spanning the timeline with a handshake icon labeled "美伊谈判持续进展" (most important, driving oil and gold markets)
+- Each card connected to its timeline date with a thin vertical or diagonal line in gray
+- Use small decorative icons inside each card representing the event type
 
-Lower section (45% height) titled "⚡ 短期投资主线" displays five horizontal investment theme cards arranged in a row below the divider, connected to relevant events above with thin dashed connector lines. Card 1 "主线一：做多地缘缓和反弹" with green upward arrow labeled "新增" showing stocks like 纳指ETF, AMD, Intel with core logic about AI infrastructure and geopolitical de-escalation. Card 2 "主线二：做多库存重建+供给约束" with green upward arrow labeled "新增" showing Brent-WTI spread strategy with core logic about 200 million barrel monthly drawdown. Card 3 "主线三：做多黄金中期布局" with green upward arrow labeled "强化" showing gold at $4616 with core logic about dollar weakness and central bank de-dollarization. Card 4 "主线四：做空原油地缘溢价" with red downward arrow labeled "新增" showing tactical short on Brent with core logic about oil topping at $120 emotional ceiling. Card 5 "主线五：美中制裁分裂 A股机会" with green upward arrow labeled "新增" showing China defense and semiconductor plays with core logic about dual-use technology sovereignty.
-
-Each theme card has a clean white background with subtle shadow, colored left border strip matching direction arrow color, theme title in bold Simplified Chinese, directional arrow icon, status tag badge, and one
+**Lower section (45% of image height):**
+- Subtitle text: "⚡ 短期投资主线" in bold Simplified Chinese, colored in emerald green
+- Arrange 5 investment theme cards horizontally across the section:
+  1. A card with a gold bar icon, theme name "黄金多头" with a green up arrow, status tag "维持·强化" in green, and brief text: "美伊谈判不确定性与央行购
