@@ -1,23 +1,33 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-07 08:54:59
+Generated at: 2026-05-08 08:58:56
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional financial risk-management dashboard infographic with two stacked sections separated by a thin light divider. The entire image should have a clean white background with subtle gradient accents in navy blue and gold tones, suitable for financial reporting.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional financial risk-management dashboard infographic with two stacked sections separated by a thin light divider. Upper section occupies 55% height, lower section occupies 45% height.
 
-**Upper section (55% of image height):**
-- Title text at the top: "未来一周关注焦点与短期投资主线 (5月7日-5月14日)" in large bold Simplified Chinese font, colored in dark navy blue
-- Below the title, a horizontal timeline spanning the full width, labeled with dates from left to right: "5月7日", "5月8日", "5月9日", "5月10日", "5月11日", "5月12日", "5月13日", "5月14日" in Simplified Chinese, positioned along the bottom of the timeline
-- Place exactly 5 event cards connected to their corresponding dates on the timeline:
-  1. On 5月7日: A red-bordered card with an oil barrel icon labeled "美伊谈判关键节点" (most important, highest impact)
-  2. On 5月7日: An orange-bordered card with a bank icon labeled "日本央行会议纪要" (medium importance)
-  3. On 5月8日: A yellow-bordered card with a chart icon labeled "中国4月贸易数据" (general watch)
-  4. On 5月8-9日: An orange-bordered card with a peace symbol icon labeled "俄乌停火窗口期" (medium importance)
-  5. On 5月9日: An orange-bordered card with a percentage icon labeled "中国4月CPI/PPI" (medium importance, high impact for sectors)
-  6. On continuing basis: A red-bordered card spanning the timeline with a handshake icon labeled "美伊谈判持续进展" (most important, driving oil and gold markets)
-- Each card connected to its timeline date with a thin vertical or diagonal line in gray
-- Use small decorative icons inside each card representing the event type
+Upper section: Title in large bold Simplified Chinese text: "未来一周关注焦点与短期投资主线 (5月8日-5月15日)". Below the title, a horizontal timeline spanning the full width with 7 date labels in Simplified Chinese formatted as M月D日: "5月9日", "5月10日", "5月11日", "5月12日", "5月13日", "5月14日", "5月15日". Above the timeline, place 5 event cards connected to their dates with thin vertical connector lines:
 
-**Lower section (45% of image height):**
-- Subtitle text: "⚡ 短期投资主线" in bold Simplified Chinese, colored in emerald green
-- Arrange 5 investment theme cards horizontally across the section:
-  1. A card with a gold bar icon, theme name "黄金多头" with a green up arrow, status tag "维持·强化" in green, and brief text: "美伊谈判不确定性与央行购
+1. A card with red border for "5月8日" positioned left of the timeline showing: icon of a chart bar, text "美国4月非农就业数据" with a red "极高" importance tag. This card is placed slightly above the timeline at leftmost position.
+
+2. A card with red border for "5月8-9日" positioned next to first: icon of a globe/warning symbol, text "美伊霍尔木兹局势" with a red "极高" importance tag.
+
+3. A card with yellow border for "本周" in the center: icon of a microphone/speech bubble, text "美联储官员密集讲话" with a yellow "高" importance tag.
+
+4. A card with yellow border for "5月13-14日" on the right side: icon of a percentage symbol, text "美国4月CPI/PPI数据" with a yellow "高" importance tag.
+
+5. A card with gray border for "5月15日" near right: icon of a fed Reserve building, text "Kevin Warsh接任美联储" with a gray "中" importance tag.
+
+Below the timeline, add a note in small text: "下周待定：CLARITY Act草案审议（加密监管关键法案）".
+
+Lower section: Subtitle in bold Simplified Chinese: "⚡ 短期投资主线". Below it, 5 horizontal investment theme cards arranged side by side with thin connector lines linking to relevant events above:
+
+Card 1: Green left border, green up arrow symbol, theme name "现货黄金" in bold, status tag "维持", core logic sentence "滞胀对冲+央行增持双轮驱动，$4700成新底部". Connector line to 美伊霍尔木兹局势 event.
+
+Card 2: Green left border, green up arrow symbol, theme name "布伦特原油" in bold, status tag "强化", core logic sentence "供给三重约束，震荡偏多关注$102-$115区间". Connector line to 美伊霍尔木兹局势 event.
+
+Card 3: Green left border, green up arrow symbol, theme name "纳斯达克" in bold, status tag "强化", core logic sentence "AI基础设施独立牛市，突破26000点创历史新高". Connector line to 美联储官员密集讲话 event.
+
+Card 4: Green left border, green up arrow symbol, theme name "化工板块" in bold, status tag "新增", core logic sentence "PPI传导链跨品种扩散，化肥价格从$400升至$600+". Connector line to 美国4月CPI/PPI数据 event.
+
+Card 5: Green left border, green up arrow symbol, theme name "恒生指数" in bold, status tag "维持", core logic sentence "港股科技估值修复中，补涨空间仍存". Connector line to Kevin Warsh接任美联储 event.
+
+In the lower-right corner of the lower section, add a small semicircular risk gauge labeled "本周风险等级" with a dial pointer aiming at "中等偏高" level, colored in orange. Background of entire image is very light off-white. Cards have clean white backgrounds with subtle shadows. Use professional sans-serif typography. Timeline line is dark gray. Divider between sections is a thin light gray line.

@@ -1,29 +1,18 @@
 === 一、全局市场综述 ===
-Generated at: 2026-05-07 08:54:59
+Generated at: 2026-05-08 08:58:56
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create an infographic image with a Bloomberg terminal dashboard style. In the upper half, show a dark world map background with geographic regions. ONLY color Iran in bright red and ALL other countries MUST remain dark gray. Below the map, arrange exactly 9 data panels in a 3 rows by 3 columns grid, one panel per grid position.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a Bloomberg terminal dashboard image with a dark world map background covering the upper half of the canvas. The map must show only the following regions with color highlighting: ONLY color Iran and the Strait of Hormuz region in red due to military conflict and war-related tensions, and color Saudi Arabia and Kuwait in yellow due to economic policy risk. ALL other countries MUST remain dark gray or dark. Place a professional financial data grid below the map consisting of exactly 9 data panels arranged in a 3 rows, 3 columns grid with equal spacing and professional Bloomberg terminal styling.
 
-Grid position Row 1-Col 1: "上证指数" panel showing value "4,160.17" with daily change "+1.15%▲" in bright green, normal font size, standard dark border.
+Position the data panels as follows:
+- Row 1, Column 1 (top-left): Shanghai Stock Exchange Composite Index panel showing "上证指数" in bright green text with value "4,180.09" and "+0.47%▲" indicator in bright green, normal font size, with standard dark border
+- Row 1, Column 2 (top-center): CSI 300 Index panel showing "沪深300" in bright green text with value "4,900.51" and "+0.46%▲" indicator in bright green, normal font size, with standard dark border
+- Row 1, Column 3 (top-right): Hang Seng Index panel showing "恒生指数" in bright green text with value "26,214" and "+1.22%▲" indicator in bright green, normal font size, with standard dark border
+- Row 2, Column 1 (middle-left): Nikkei 225 Index panel showing "日经225" in bright green text with value "62,590" and "+5.17%▲" indicator in bright green, EXTRA LARGE BOLD font size with glowing bright green border indicating extreme highlight
+- Row 2, Column 2 (middle-center): Bitcoin BTC panel showing "比特币BTC" in bright red text with value "79,771" and "-2.03%▼" indicator in bright red, LARGE BOLD font size with bright red border
+- Row 2, Column 3 (middle-right): VIX Fear Index panel showing "VIX恐慌指数" in bright red text with value "17.08" and "-1.78%▼" indicator in bright red, normal font size, with standard dark border
+- Row 3, Column 1 (bottom-left): WTI Crude Oil panel showing "WTI原油" in bright green text with value "96.77" and "+1.78%▲" indicator in bright green, normal font size, with standard dark border
+- Row 3, Column 2 (bottom-center): Brent Crude Oil panel showing "布伦特原油" in bright green text with value "102.33" and "+1.05%▲" indicator in bright green, normal font size, with standard dark border
+- Row 3, Column 3 (bottom-right): Dow Jones Index panel showing "道琼斯" in bright red text with value "49,597" and "-0.63%▼" indicator in bright red, normal font size, with standard dark border
 
-Grid position Row 1-Col 2: "沪深300" panel showing value "4,877.09" with daily change "+1.43%▲" in bright green, normal font size, standard dark border.
-
-Grid position Row 1-Col 3: "恒生指数" panel showing value "25,899" with daily change "-0.76%▼" in bright red, normal font size, standard dark border.
-
-Grid position Row 2-Col 1: "布伦特原油" panel showing value "102.35" with daily change "-6.84%▼" in bright red, extra large bold font, glowing bright red border for extreme emphasis.
-
-Grid position Row 2-Col 2: "WTI原油" panel showing value "96.31" with daily change "-5.83%▼" in bright red, extra large bold font, glowing bright red border for extreme emphasis.
-
-Grid position Row 2-Col 3: "日经225" panel showing value "62,004" with daily change "+4.19%▲" in bright green, large bold font, bright green border.
-
-Grid position Row 3-Col 1: "现货黄金" panel showing value "4,696.50" with daily change "+3.09%▲" in bright green, large bold font, bright green border.
-
-Grid position Row 3-Col 2: "纳斯达克" panel showing value "25,839" with daily change "+2.02%▲" in bright green, large bold font, bright green border.
-
-Grid position Row 3-Col 3: "标普500" panel showing value "7,365.12" with daily change "+1.46%▲" in bright green, normal font size, standard dark border.
-
-Top title text: "全球市场态势总览" in Simplified Chinese, bold and prominent.
-
-Bottom subtitle: "油价单日暴跌7%，美伊谈判主导市场重定价——地缘消退令全球股市狂欢，但实质进展仍待验证" in Simplified Chinese, concise summary of the core theme.
-
-Dark terminal-style background, professional financial dashboard aesthetic, clean grid layout with proper spacing, no duplicate panels, no additional assets beyond the 9 listed.
+Display "全球市场态势总览" as the main title at the top
