@@ -1,33 +1,5 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-08 08:58:56
+Generated at: 2026-05-09 08:54:21
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional financial risk-management dashboard infographic with two stacked sections separated by a thin light divider. Upper section occupies 55% height, lower section occupies 45% height.
-
-Upper section: Title in large bold Simplified Chinese text: "未来一周关注焦点与短期投资主线 (5月8日-5月15日)". Below the title, a horizontal timeline spanning the full width with 7 date labels in Simplified Chinese formatted as M月D日: "5月9日", "5月10日", "5月11日", "5月12日", "5月13日", "5月14日", "5月15日". Above the timeline, place 5 event cards connected to their dates with thin vertical connector lines:
-
-1. A card with red border for "5月8日" positioned left of the timeline showing: icon of a chart bar, text "美国4月非农就业数据" with a red "极高" importance tag. This card is placed slightly above the timeline at leftmost position.
-
-2. A card with red border for "5月8-9日" positioned next to first: icon of a globe/warning symbol, text "美伊霍尔木兹局势" with a red "极高" importance tag.
-
-3. A card with yellow border for "本周" in the center: icon of a microphone/speech bubble, text "美联储官员密集讲话" with a yellow "高" importance tag.
-
-4. A card with yellow border for "5月13-14日" on the right side: icon of a percentage symbol, text "美国4月CPI/PPI数据" with a yellow "高" importance tag.
-
-5. A card with gray border for "5月15日" near right: icon of a fed Reserve building, text "Kevin Warsh接任美联储" with a gray "中" importance tag.
-
-Below the timeline, add a note in small text: "下周待定：CLARITY Act草案审议（加密监管关键法案）".
-
-Lower section: Subtitle in bold Simplified Chinese: "⚡ 短期投资主线". Below it, 5 horizontal investment theme cards arranged side by side with thin connector lines linking to relevant events above:
-
-Card 1: Green left border, green up arrow symbol, theme name "现货黄金" in bold, status tag "维持", core logic sentence "滞胀对冲+央行增持双轮驱动，$4700成新底部". Connector line to 美伊霍尔木兹局势 event.
-
-Card 2: Green left border, green up arrow symbol, theme name "布伦特原油" in bold, status tag "强化", core logic sentence "供给三重约束，震荡偏多关注$102-$115区间". Connector line to 美伊霍尔木兹局势 event.
-
-Card 3: Green left border, green up arrow symbol, theme name "纳斯达克" in bold, status tag "强化", core logic sentence "AI基础设施独立牛市，突破26000点创历史新高". Connector line to 美联储官员密集讲话 event.
-
-Card 4: Green left border, green up arrow symbol, theme name "化工板块" in bold, status tag "新增", core logic sentence "PPI传导链跨品种扩散，化肥价格从$400升至$600+". Connector line to 美国4月CPI/PPI数据 event.
-
-Card 5: Green left border, green up arrow symbol, theme name "恒生指数" in bold, status tag "维持", core logic sentence "港股科技估值修复中，补涨空间仍存". Connector line to Kevin Warsh接任美联储 event.
-
-In the lower-right corner of the lower section, add a small semicircular risk gauge labeled "本周风险等级" with a dial pointer aiming at "中等偏高" level, colored in orange. Background of entire image is very light off-white. Cards have clean white backgrounds with subtle shadows. Use professional sans-serif typography. Timeline line is dark gray. Divider between sections is a thin light gray line.
+Professional global news briefing infographic with a rich editorial design language. The background must be deep midnight navy; never use a white or light background. Accent colors: warm amber gold, electric cyan-green, soft coral red, slate blue, and pure white text. Create layered visual depth with a dense hexagonal grid or world-map silhouette as background texture; card areas should use translucent dark panels with subtle glowing borders. High resolution, magazine-grade quality, calm and clear, information-first. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Avoid trading-terminal aesthetics, candlestick charts, oversized up/down arrows, buy/sell cues, and aggressive sentiment dashboards. Critical requirement: every number and data value in the image must match the prompt exactly; do not invent or alter data. Critical requirement: each data panel may appear only once, with absolutely no duplicates.A clean, professional information observation board infographic in modern flat design style, displaying global market and geopolitical observation data in a rational, data-driven layout. The background is soft neutral gray-white with subtle grid lines suggesting a strategic planning board. At the top, a refined header section with the title "未来一周关注焦点与观察清单（5月9日-5月16日）" in bold Simplified Chinese characters, accompanied by a subtitle "Global Market Observation Window" in small English text below. The upper section occupies approximately sixty percent of the composition, featuring a horizontal timeline bar spanning May 9 to May 16 in Simplified Chinese date format, with seven event cards arranged in order of importance from left to right and top to bottom. Each event card displays a Simplified Chinese title with an importance indicator icon, the date, and a brief context line. The cards use color-coded left borders: red-orange for extremely high importance events, orange for high importance, and blue for medium-high importance. Connector lines in thin gray dashed strokes link each event card to its corresponding observation points below in the lower section. The lower section occupies approximately forty percent and contains five observation checklist cards organized in a grid layout. Each observation card contains only three elements: the observation variable name in bold Simplified Chinese, the validation condition in regular text, and a concise note about potential impact in smaller gray text. There are no buy/sell recommendations, no trading arrows, no candlestick charts, and no risk gauges. The overall aesthetic is that of a sophisticated Bloomberg terminal observation screen or a geopolitical risk analysis dashboard from a major think tank. The color palette uses muted professional tones: deep navy for primary text, warm red-orange for high-importance alerts, soft blue for medium-level items, white card backgrounds with subtle shadows, and light gray for secondary information. All text is legible and clearly organized for information consumption only.
