@@ -1,25 +1,15 @@
 === 六、投资主线周度更新 ===
-Generated at: 2026-05-03 08:54:31
+Generated at: 2026-05-10 08:50:29
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a three-column card-style infographic titled "投资主线三维透视" in Chinese with a dark professional financial dashboard aesthetic. Each column has an equal width of approximately 33% of the image width.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.A three-column card-style infographic in Simplified Chinese titled "投资主线三维透视" with a top title bar in dark navy blue. The three equal-width columns display investment themes across different time horizons side by side.
 
-**Top section**: A horizontal dark gradient title bar spanning the full width with text "投资主线三维透视" in large bold white Simplified Chinese characters, centered. No dates or numbers.
+Left column titled "⚡ 短期交易窗口" on a warm red-orange gradient background, containing 4 short-term trading theme cards within a 1-month window. Each card features a small figurative cartoon icon on the left such as a gold bar for gold, a microchip for semiconductor AI, an oil barrel for crude oil, and a gem for rare earth, followed by a concise Chinese theme name with an up or down direction arrow, and a colored circular badge on the right showing status like green for "强化" confirmation or yellow for "中性" watch. Card borders are green for bullish themes, red for bearish, and gray for neutral.
 
-**Left column (⚡ 短期交易窗口)**: Red-orange gradient background ( to ). Header badge with "⚡ 短期交易窗口" in bold white text. Below, five compact horizontal cards arranged vertically with rounded corners and subtle shadows. Each card follows this structure: left side has a figurative cartoon-style icon (oil barrel for oil, lightning bolt for energy, microchip for AI, gold bar for gold, factory building for manufacturing), center shows 2-4 Chinese characters theme name with a directional arrow (↑ for bullish, ↓ for bearish, → for neutral), right side has a circular status badge (green badge with white checkmark ✅ for confirmed, yellow badge with warning ⚠️ for cracks, blue badge with "NEW" text 🆕 for new). Card border colors: green () for bullish themes, red () for bearish themes, gray () for neutral/watch themes.
+Middle column titled "📐 中期配置方向" on a cool cyan-blue gradient background, containing 5 medium-term allocation theme cards spanning 1-6 months. Each card features a figurative icon such as a rocket for Nasdaq growth, a globe with rising trend for Nikkei Asian tech revaluation, a Bitcoin coin for crypto compliance, a copper ingot for energy transition copper, and a document chart for A-share policy bottom. Cards include confidence-change arrows indicating rising or flat sentiment with colored status badges.
 
-Card 1: Oil barrel icon | "霍尔木兹封锁 ↑" | green badge "✅确认" - border green
-Card 2: Lightning bolt icon | "能源断供 ↑" | green badge "✅确认" - border green
-Card 3: Microchip icon | "AI盈利验证 ↑" | green badge "✅确认" - border green
-Card 4: Gold bar icon | "黄金整固 ↓" | yellow badge "⚠️裂痕" - border gray
-Card 5: Factory icon | "A股防御 ↑" | blue badge "🆕新增" - border green
+Right column titled "🔭 长期战略主题" on a deep purple-indigo gradient background, containing 4 long-term strategic theme cards for 6 months or more. Each card features a macro-theme icon such as a gold bar with dollar sign for monetary credit hedge, a battery cell for lithium energy transition material, a broken OPEC badge for post-OPEC pricing power, and a wheat sheaf with chemical flask for food security chain. Cards display strong green "强化" confirmation badges.
 
-Each card displays key data: "+9.84% $108", "+10.65% $102", "+2.91%", "-1.51% $4,550-$4,700", "+1.66%" in small readable text below the theme name. Confidence level shown as "高/中/低" in small colored text.
+Bottom summary bar in dark charcoal with white text showing one key sentence about market transition from geopolitical pricing to stagflation pricing, with small upward trending chart icon.
 
-**Middle column (📐 中期配置方向)**: Blue-cyan gradient background ( to ). Header badge with "📐 中期配置方向" in bold white text. Below, five compact horizontal cards with same structure. Icons: shield for defense/digital, rocket for growth, gear for industrials, flask for chemicals, wheat/grain for commodities. Confidence change indicators: green upward arrow ↑ for strengthening, yellow horizontal arrow → for holding, red downward arrow ↓ for weakening.
-
-Card 1: Shield icon | "数字黄金 ↑" | green badge "↑强化" - border green
-Card 2: Rocket icon | "工业需求 →" | yellow badge "→维持" - border gray
-Card 3: Gear icon | "滞胀定价 ↑" | green badge "↑强化" - border green
-Card 4: Flask icon | "化工传导 ↑" | green badge "↑强化" - border green
-Card 5: Wheat icon | "避险利差
+All text labels inside the image are in Simplified Chinese only with no English, no hexadecimal color codes, no dates, no URLs, and no watermarks. Key price numbers like gold at $4,720, Bitcoin at $80,753, Brent at $101, WTI at $95 are clearly legible. Each card has clean rounded corners, subtle shadows, and professional financial design aesthetic with high contrast readable text.
