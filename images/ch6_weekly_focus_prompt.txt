@@ -1,9 +1,43 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-11 08:54:35
+Generated at: 2026-05-12 08:52:10
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional risk-management dashboard infographic in landscape orientation with a light divider between two main sections, featuring a clean white background and modern corporate design aesthetic with subtle drop shadows on cards and a polished visual hierarchy.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a professional financial risk-management dashboard infographic with two stacked sections separated by a subtle light gray divider line. The overall dimensions should be suitable for a wide social media format.
 
-Upper section takes up 55% of the vertical space with title "未来一周关注焦点与短期投资主线 (5月11日-5月18日)" in large bold dark navy text with a small calendar icon at the top, and a horizontal timeline bar spanning the full width below the title showing exactly 7 date markers from 5月12日 on the far left to 5月18日 on the far right in Simplified Chinese date format M月D日, with each date in a small rounded box along the timeline.
+**UPPER SECTION (55% height) - Event Calendar:**
 
-Place exactly 5 event cards positioned above and below the timeline, each connected to its corresponding date with a thin vertical connector line, with the following events: on 5月12日-13日 position a tall card below the timeline showing "中美经贸磋商" with subtitle "何立峰率团与贝森特会谈" and a handshake icon, with thick red border indicating highest importance and a small red star badge labeled "核心事件"; on 5月14日 position a medium card above the timeline showing "美国参议院Clarity Act投票" with a scales of justice icon, thick red border; on 5月15日 position a tall card above the timeline showing "美国4月CPI数据发布" with a chart icon, thick red border and a small red star
+Place a bold title at the top in Simplified Chinese: "未来一周关注焦点与短期投资主线 (5月12日-5月19日)" in a dark navy blue color, with a small calendar icon to the left.
+
+Create a horizontal timeline spanning the full width with seven date markers below it, labeled in Simplified Chinese format as "5月12日", "5月13日", "5月14日", "5月15日", "5月16日", "5月17日", "5月18日", "5月19日" from left to right. Add small vertical tick marks for each date.
+
+Position six event cards on the timeline with curved connector lines pointing to their respective dates:
+
+1. On May 12 - Card with RED border, Japanese flag icon: "日本央行4月会议纪要 08:50" with subtitle "加息预期骤然升温" - most important event marked with three stars
+
+2. On May 13 - Card with RED border, Federal Reserve seal icon: "美联储利率决议 02:00" with subtitle "政策声明或释放鹰派信号" - most important event marked with four stars
+
+3. On May 14 - Card with ORANGE border, Capitol building icon: "Clarity Act参议院投票" with subtitle "美国加密监管框架成型" - medium importance
+
+4. On May 15 - Card with RED border, chart icon: "美国4月CPI数据 20:30" with subtitle "预测+3.7%，潜在黑天鹅" - highest importance marked with five stars and alert symbol
+
+5. On May 15 - Card with RED border, handshake icon: "特朗普访华" with subtitle "伊朗制裁与能源贸易" - high importance
+
+6. On May 16 - Card with YELLOW border, oil barrel icon: "EIA原油库存数据" with subtitle "供给侧支撑已定价" - general watch
+
+Style the cards with white backgrounds, subtle drop shadows, and rounded corners. The red-bordered cards should have a light red background tint, orange-bordered cards light orange tint, and yellow-bordered cards light yellow tint.
+
+**LOWER SECTION (45% height) - Short-Term Investment Themes:**
+
+Add a subtitle section with a yellow lightning bolt icon in Simplified Chinese: "⚡ 短期投资主线"
+
+Arrange five investment theme cards horizontally in a row with even spacing:
+
+Card 1 - SILVER BULLION: Green background gradient, large green up arrow icon, title in Simplified Chinese "贵金属白银" with status tag "强化" in green, core logic text "AI算力需求+滞胀对冲+金银比修复三重共振，上涨空间20%", and specific tickers listed as "SLV / 沪银主力 / 金贵银业"
+
+Card 2 - AI CHIP SUPPLY CHAIN: Green background gradient, green up arrow icon, title in Simplified Chinese "AI芯片产业链" with status tag "维持" in green, core logic text "高通暴涨12%显示AI算力从概念进入业绩兑现阶段", and specific tickers listed as "NVDA / AMD / 美光科技"
+
+Card 3 - CRUDE OIL CONSOLIDATION: Yellow background gradient, yellow horizontal arrow icon, title in Simplified Chinese "原油震荡市" with status tag "弱化" in orange, core logic text "战争溢价已被消化至$95-110区间，方向待催化剂", and specific tickers listed as "布伦特原油 / OPEC"
+
+Card 4 - YEN CARRY TRADE RISK: Yellow background gradient, yellow horizontal arrow icon, title in Simplified Chinese "日元套利交易平仓风险" with status tag "新增" in blue, core logic text "日本央行鹰派信号触发日元升值预期，需关注USD/JPY 150", and specific tickers listed as "USD/JPY做空 / 日经225"
+
+Card 5 - CPI BLACK SWAN SCENARIO: Red background gradient, red
