@@ -1,31 +1,10 @@
 === 一、全局市场综述 ===
-Generated at: 2026-05-13 08:53:30
+Generated at: 2026-05-14 08:47:32
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a Bloomberg terminal dashboard infographic with a dark world map background. The image shows a 3 rows x 3 columns grid of 9 data panels in the upper half of the image above the map. The grid positions are as follows:
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.A financial infographic in Bloomberg terminal dashboard style. The image contains a dark background with a dark world map in the upper half. ONLY color Iran in red, color the United States in yellow, and color China in yellow. ALL other countries MUST remain dark gray. Above the map, exactly 9 data panels arranged in a strict 3 rows x 3 columns grid. Top title text in Simplified Chinese: '全球市场态势总览'. Bottom subtitle in Simplified Chinese: '美联储换帅叠加PPI飙升至6%，加息从假设性讨论进入政策选项' — one short sentence summarizing the core market theme of the day.
 
-[Row 1, Column 1] Top left panel: Chinese text "上证指数" equals "4,214.49" with change "-0.29%▼" in bright red, normal font size, standard dark border.
-
-[Row 1, Column 2] Top center panel: Chinese text "沪深300" equals "4,948.05" with change "-0.13%▼" in bright red, normal font size, standard dark border.
-
-[Row 1, Column 3] Top right panel: Chinese text "恒生指数" equals "26,407" with change "+0.05%▲" in bright green, normal font size, standard dark border.
-
-[Row 2, Column 1] Middle left panel: Chinese text "WTI原油" equals "101.34" with change "+3.33%▲" in bright green, LARGE BOLD font size, bright green border.
-
-[Row 2, Column 2] Middle center panel: Chinese text "布伦特原油" equals "106.78" with change "+2.47%▲" in bright green, LARGE BOLD font size, bright green border.
-
-[Row 2, Column 3] Middle right panel: Chinese text "VIX恐慌指数" equals "17.99" with change "-2.12%▼" in bright red, LARGE BOLD font size, bright red border.
-
-[Row 3, Column 1] Bottom left panel: Chinese text "比特币BTC" equals "80,615" with change "-1.36%▼" in bright red, normal font size, standard dark border.
-
-[Row 3, Column 2] Bottom center panel: Chinese text "纳斯达克" equals "26,088" with change "-0.71%▼" in bright red, normal font size, standard dark border.
-
-[Row 3, Column 3] Bottom right panel: Chinese text "美元指数DXY" equals "98.32" with change "+0.39%▲" in bright green, normal font size, standard dark border.
-
-ONLY color the Middle East region in red and the United States in yellow. ALL other countries MUST remain dark gray. The red indicates military conflict and geopolitical confrontation in the Middle East related to the Iran war and Strait of Hormuz blockade. The yellow indicates economic policy risk in the United States related to inflation and Fed rate hike expectations.
-
-The top title text inside the image must be in Simplified Chinese: "全球市场态势总览".
-
-The bottom subtitle inside the image must be a short Simplified Chinese sentence summarizing the core market theme: "通胀全面扩散，加息预期从幻想变为现实".
-
-Style: Bloomberg terminal dashboard with green and red data visualization, dark professional background, financial data emphasis.
+Grid layout and exact content for each panel:
+- Row1, Col1: Panel for "上证指数" with value "4,242.57" and change "+0.64%▲". Use bright green for the change arrow and percentage, normal font size, standard dark border.
+- Row1, Col2: Panel for "沪深300" with value "4,998.34" and change "+1.00%▲". Use bright green for the change arrow and percentage, normal font size, standard dark border.
+- Row1, Col3: Panel for "恒生指数" with value
