@@ -1,33 +1,19 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-14 08:47:32
+Generated at: 2026-05-15 08:47:59
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Design a professional financial risk-management dashboard infographic with a light horizontal divider separating two stacked sections. The overall color scheme should use a dark navy blue background for the main dashboard panel, with white and light gray text for high contrast.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Generate a professional financial infographic in a risk-management dashboard style. The layout has two stacked sections separated by a light divider.
 
-**Upper Section (55% of vertical space) - Event Calendar:**
+**Upper section (55%):** Title in Simplified Chinese: '未来一周关注焦点与短期投资主线 (5月15日-5月22日)'. Below the title, a horizontal timeline from left to right with the following 7 dates starting from the day after May 15: 5月16日, 5月17日, 5月18日, 5月19日, 5月20日, 5月21日, 5月22日. Place event cards connected to their exact dates:
+- Date 5月18日: One card with red border (most important) containing a small icon and text '特朗普从中国返美后首场新闻发布会'.
+- Date 5月19日: One card with orange border (medium importance) containing a small icon and text '美国4月新屋开工数据'.
+- Date 5月20日: Two cards placed side by side or stacked vertically. Left card with red border (most important) containing a small icon and text 'FOMC 5月会议纪要'. Right card with yellow border (general watch) containing a small icon and text '德国4月PPI、欧元区3月贸易账'.
+- Date 5月21日: One card with orange border (medium importance) containing a small icon and text '美国5月Markit PMI初值'.
+- Date 5月21日-5月22日 (place on 5月21日 or spanning both): One card with yellow border (general watch) containing a small icon and text '北约外长会议'.
 
-At the top of this section, place the title text "未来一周关注焦点与短期投资主线 (5月14日-5月21日)" in large white bold simplified Chinese characters, centered at the top.
-
-Below the title, add a horizontal timeline spanning the full width of the section. Label the timeline from left to right with exactly seven date markers in simplified Chinese using M月D日 format: 5月15日, 5月16日, 5月17日, 5月18日, 5月19日, 5月20日, 5月21日. Add subtle vertical gridlines below each date marker.
-
-Position six event cards along the timeline and connect each card to its corresponding date with a thin vertical connector line:
-
-1. On 5月15日: Place a card with thick red border labeled "CLARITY法案修订投票" with a small legislative building icon. Add a small upward trend icon. This is the highest-impact event.
-
-2. Spanning 5月14日-15日: Place a card with orange border labeled "特朗普访华后续" with a handshake icon. Mention tariff negotiations and Boeing orders.
-
-3. On 5月15日: Place another card with orange border labeled "中美联合声明" with a document icon. Note the Iran non-proliferation discussion and Strait of Hormuz implications.
-
-4. On 5月16日-17日: Place a card with orange border labeled "Warsh讲话窗口" with a microphone icon. Note market will analyze inflation and interest rate stance.
-
-5. On 5月18日: Place a card with yellow border labeled "欧央行政策预期" with a European Union flag icon. Note global central bank hawkish resonance.
-
-6. On 5月19日: Place a card with yellow border labeled "美国4月零售销售" with a shopping cart icon. Note verification of inflation compressing consumption.
-
-**Lower Section (45% of vertical space) - Short-Term Investment Themes:**
-
-Add a light horizontal divider line between the two sections.
-
-Below the divider, place the subtitle text "⚡ 短期投资主线" in white bold simplified Chinese characters, left-aligned.
-
-Create five horizontal investment theme cards arranged in a 2-row layout (3 cards on
+**Lower section (45%):** Subtitle in Simplified Chinese: '⚡ 短期投资主线'. Extract 5 themes from the chapter and display as horizontal cards. Each card contains:
+- Theme name (Simplified Chinese): '黄金短期逢低做多' / '做多布伦特原油区间交易' / '做多伦锌' / '中期看空A股（沪深300/上证指数）' / '谨慎看多比特币'.
+- Direction arrow: green up arrow for gold, Brent, zinc, bitcoin; red down arrow for A-shares.
+- Status tag: '维持' for gold, Brent, bitcoin; '新增' for zinc, A-shares.
+- One-sentence core logic: 
+  - Gold:
