@@ -1,19 +1,18 @@
 === 六、未来一周关注焦点与短期投资主线 ===
-Generated at: 2026-05-15 08:47:59
+Generated at: 2026-05-16 08:46:57
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Generate a professional financial infographic in a risk-management dashboard style. The layout has two stacked sections separated by a light divider.
-
-**Upper section (55%):** Title in Simplified Chinese: '未来一周关注焦点与短期投资主线 (5月15日-5月22日)'. Below the title, a horizontal timeline from left to right with the following 7 dates starting from the day after May 15: 5月16日, 5月17日, 5月18日, 5月19日, 5月20日, 5月21日, 5月22日. Place event cards connected to their exact dates:
-- Date 5月18日: One card with red border (most important) containing a small icon and text '特朗普从中国返美后首场新闻发布会'.
-- Date 5月19日: One card with orange border (medium importance) containing a small icon and text '美国4月新屋开工数据'.
-- Date 5月20日: Two cards placed side by side or stacked vertically. Left card with red border (most important) containing a small icon and text 'FOMC 5月会议纪要'. Right card with yellow border (general watch) containing a small icon and text '德国4月PPI、欧元区3月贸易账'.
-- Date 5月21日: One card with orange border (medium importance) containing a small icon and text '美国5月Markit PMI初值'.
-- Date 5月21日-5月22日 (place on 5月21日 or spanning both): One card with yellow border (general watch) containing a small icon and text '北约外长会议'.
-
-**Lower section (45%):** Subtitle in Simplified Chinese: '⚡ 短期投资主线'. Extract 5 themes from the chapter and display as horizontal cards. Each card contains:
-- Theme name (Simplified Chinese): '黄金短期逢低做多' / '做多布伦特原油区间交易' / '做多伦锌' / '中期看空A股（沪深300/上证指数）' / '谨慎看多比特币'.
-- Direction arrow: green up arrow for gold, Brent, zinc, bitcoin; red down arrow for A-shares.
-- Status tag: '维持' for gold, Brent, bitcoin; '新增' for zinc, A-shares.
-- One-sentence core logic: 
-  - Gold:
+Professional global news briefing infographic with a rich editorial design language. The background must be deep midnight navy; never use a white or light background. Accent colors: warm amber gold, electric cyan-green, soft coral red, slate blue, and pure white text. Create layered visual depth with a dense hexagonal grid or world-map silhouette as background texture; card areas should use translucent dark panels with subtle glowing borders. High resolution, magazine-grade quality, calm and clear, information-first. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Avoid trading-terminal aesthetics, candlestick charts, oversized up/down arrows, buy/sell cues, and aggressive sentiment dashboards. Critical requirement: every number and data value in the image must match the prompt exactly; do not invent or alter data. Critical requirement: each data panel may appear only once, with absolutely no duplicates.A professional financial infographic titled '未来一周关注焦点与观察清单（5月16日-5月23日）'. Upper 60%: horizontal event calendar spanning 5月16日 to 5月23日 with 6 priority-ordered cards: 
+1. '伊朗核谈判' – 5月17日 – '美伊外交进展影响霍尔木兹封锁前景'
+2. '美股重新开盘' – 5月18日 – '消化美联储过渡安排+英债危机+通胀数据'
+3. '美国4月新屋开工' – 5月19日 – '利率飙升对房地产市场的实际冲击'
+4. '英国CPI数据' – 5月20日 – '英债收益率飙升逻辑是否被证实'
+5. '日本央行行长讲话' – 5月21日 – '6月加息预期是否进一步明确'
+6. '全球PMI初值' – 5月22日 – '经济韧性是否支撑不衰退叙事'
+Each card shows date, event name, and observation point. Connector lines link events to the lower section. Lower 40%: 5 '观察清单' cards, each with variable name, validation condition, potential impact (no buy/sell language):
+1. '美债收益率是否突破4.70%' – '若US10Y持续上行至4.70%以上，将进一步压制全球权益资产，引发新兴市场资本外流；关键催化剂：英债危机扩散、沃什首秀'
+2. '黄金能否在4500区域企稳' – '若央行买盘入场（中国/印度/俄罗斯）形成短期底部；若印度限制黄金进口则下行压力加大'
+3. 'WTI与布伦特价差趋势' – '若WTI继续弱于布伦特（价差约8美元），暗示美国本土供给增量压制国内基准，全球供需缺口定价分化'
+4. '英国保守党/工党内部危机演化' – '若首相斯塔默被迫辞职，英镑可能贬值至1.20以下，推高美元指数至100+，触发新兴市场抛售'
+5. '中国是否释放信贷宽松信号' – '4月信贷数据弱于预期后，市场等待降准或降息操作；若出现，可能为A股提供短期支撑'
+Style: global information observation board, clean and rational, no directional arrows, no candlestick charts, no return leaderboards, no hexadecimal color codes. Use neutral color palette (e.g., dark blue, white, light gray). Text all in Simplified Chinese.
