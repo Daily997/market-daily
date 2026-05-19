@@ -1,12 +1,17 @@
 === 一、全局市场综述 ===
-Generated at: 2026-05-18 08:46:52
+Generated at: 2026-05-19 13:35:58
 ============================================================
 
-Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.Create a Bloomberg terminal dashboard-style financial infographic with a dark background. The upper half features a dark world map with ONLY the following countries explicitly colored: Iran, UAE, USA, and Israel in bright red (military conflict areas); Norway in bright yellow (economic policy risk area). ALL other countries MUST remain dark gray. DO NOT color any country not listed. The map should be darkened globally except these highlighted countries.
+Professional financial report infographic, clean modern design, deep navy background, accent colors in warm gold, bright cyan, and white. High resolution, editorial-grade quality. All visible text labels must be in Simplified Chinese; no English text may appear inside the image. Absolutely no watermark, logo, website domain, or signature. Absolutely no garbled text or random letters. Critical requirement: every number and data value shown in the image must match the prompt exactly; do not invent, round, or alter any number. Critical requirement: each data panel may appear only once, with absolutely no duplicates. If blank space remains, keep it blank or fill it with decorative elements such as grid lines or subtle textures; never repeat panels.A Bloomberg terminal dashboard design featuring a dark world map background in the upper half, with a 3 rows by 3 columns grid of financial data panels positioned above the map, each panel displaying an asset name, current price, and percentage change with appropriate colors. The top title text inside the image reads "全球市场态势总览" in bold Simplified Chinese. The bottom subtitle displays a short Simplified Chinese sentence capturing today's core market theme. The grid layout and panel positions are as follows:
 
-On top of the map, place exactly 9 data panels arranged strictly in a 3 rows x 3 columns grid. Each panel has a dark border. The panels and their exact grid positions are:
+Top row left position (Row 1, Column 1): 上证指数 at 4,136.28 with +0.12% change displayed in bright green normal size text with standard dark border.
 
-Row 1, Column 1: "上证指数" with value "4,135.39" and change "-1.02%▼". Text color bright red normal size, border standard dark.
-Row 1, Column 2: "沪深300" with value "4,859.59" and change "-1.12%▼". Text color bright red normal size, border standard dark.
-Row 1, Column 3: "恒生指数" with value "25,963" and change "-1.62%▼". Text color bright red normal size, border standard dark.
-Row 2, Column 1: "VIX恐慌指数" with value "18.43" and change "+6.78%▲". Text color bright green, EXTRA LARGE BOLD, glowing
+Top row center position (Row 1, Column 2): 沪深300 at 4,810.24 with -0.48% change displayed in bright red normal size text with standard dark border.
+
+Top row right position (Row 1, Column 3): 恒生指数 at 25,752 with +0.30% change displayed in bright green normal size text with standard dark border.
+
+Middle row left position (Row 2, Column 1): WTI原油 at 103.23 with -5.00% change displayed in bright red large bold text with bright red border, making this panel visually prominent.
+
+Middle row center position (Row 2, Column 2): VIX恐慌指数 at 17.82 with -3.31% change displayed in bright red large bold text with bright red border, making this panel visually prominent.
+
+Middle row right position (Row 2, Column 3): 布伦特原油 at 110.35 with -1.56%
